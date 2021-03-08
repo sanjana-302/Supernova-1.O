@@ -1,9 +1,9 @@
 import Phaser from 'phaser';
 function preload() {
-    this.load.image('Imposter', '../src/assets/Imposter.png')
-    this.load.image('platform', '../src/assets/platform.png')
-    this.load.image('codey', '../src/assets/superNova.png')
-    this.load.image('clouds', '../src/assets/clouds.png')
+    this.load.image('Imposter', 'https://njdstg.stripocdn.email/content/guids/CABINET_23dae9bd27db3cb3cd1146e1cf66982b/images/22311615213593243.png')
+    this.load.image('platform', 'https://njdstg.stripocdn.email/content/guids/CABINET_23dae9bd27db3cb3cd1146e1cf66982b/images/94281615213592536.png')
+    this.load.image('codey', 'https://njdstg.stripocdn.email/content/guids/CABINET_23dae9bd27db3cb3cd1146e1cf66982b/images/84641615213595035.png')
+    this.load.image('clouds', 'https://njdstg.stripocdn.email/content/guids/CABINET_23dae9bd27db3cb3cd1146e1cf66982b/images/71191615213593112.png')
   }
   
   const gameState = {
