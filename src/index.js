@@ -1,5 +1,4 @@
-// full size
-// score  - improve , top right 
+import Phaser from 'phaser';
 function preload() {
     this.load.image('Imposter', 'src/assets/Imposter.png')
     this.load.image('platform', 'src/assets/platform.png')
