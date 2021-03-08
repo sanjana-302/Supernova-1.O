@@ -1,9 +1,9 @@
 import Phaser from 'phaser';
 function preload() {
-    this.load.image('Imposter', 'src/assets/Imposter.png')
-    this.load.image('platform', 'src/assets/platform.png')
-    this.load.image('codey', 'src/assets/superNova.png')
-    this.load.image('clouds', 'src/assets/clouds.png')
+    this.load.image('Imposter', '../src/assets/Imposter.png')
+    this.load.image('platform', '../src/assets/platform.png')
+    this.load.image('codey', '../src/assets/superNova.png')
+    this.load.image('clouds', '../src/assets/clouds.png')
   }
   
   const gameState = {
