@@ -33,6 +33,7 @@ Use cursor keys to make Supernova move across the playground, your goal is to re
 - Clone the repository.
 - Open your favourite editor.
 - Run the following commands.
+- You should have node and npm installed.
 ```sh
     npm install
 ```
