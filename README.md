@@ -14,17 +14,14 @@
 This game is called SuperNova. SuperNova is a character fighting all odds to reach success. She overcomes all her fears and flaws to achieve her goals.
 
 ## 📌 How to play ?
-Use cursor keys to make Supernova move across the playground, your goal is to reach to the clouds in sky. Looks easy? No, it's not. Everytime you hit any of your insecurities they will push you down to the ground. But don't worry you can fight them and reach your goal!
+Use cursor keys to make Supernova move across the playground, you have to reach a particular score by hitting all insecurities you find in your way. This increases your power score! You win! These insecurities may push you downwards but you going to fight back!
+Enjoy!
 
 ## 📌 Technology stack
 - phaser
 - node
 
 ## 📌 How the game looks ?
-
-<p align="center">
-  <img src="https://github.com/sanjana-302/Supernova-1.O/blob/main/src/assets/superNova.png" height="300px">
-</p>
 <p align="center">
   <img src="https://github.com/sanjana-302/Supernova-1.O/blob/main/src/assets/preview.png" height="300px">
 </p>
