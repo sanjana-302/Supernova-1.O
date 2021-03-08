@@ -43,7 +43,7 @@ Enjoy!
 ```
 - Now you are good to go  👾‍
 - Open for code reviews. Connect with me on profile!
-- [WIP] : Deployed version will be available soon ⭐
+- Visit here : [Supernova](https://supernovabysanjana.netlify.app/)
 
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/built-with-love.svg)
 ![ForTheBadge built-with-love](https://forthebadge.com/images/badges/check-it-out.svg)
